@@ -26,7 +26,7 @@ const Header = () => {
   };
 
   // Google Drive resume link
-  const resumeLink = "https://drive.google.com/file/d/1ipWnob9ixN4XenBBFVoF_m1bQFvYfyyO/view";
+  const resumeLink = "https://drive.google.com/file/d/1ovqDgSJ9bfM8Fug_UDFxC2DpPNZB9noj/view";
 
   return (
     <header className={`fixed top-0 left-0 right-0 z-50 py-4 transition-all duration-300 ${

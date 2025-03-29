@@ -4,7 +4,7 @@ import { useTheme } from '@/context/ThemeContext';
 
 const Hero = () => {
   const { theme } = useTheme();
-  const resumeLink = "https://drive.google.com/file/d/1ipWnob9ixN4XenBBFVoF_m1bQFvYfyyO/view";
+  const resumeLink = "https://drive.google.com/file/d/1ovqDgSJ9bfM8Fug_UDFxC2DpPNZB9noj/view";
   
   return (
     <section id="home" className="min-h-screen pt-28 pb-16 flex items-center dark:bg-gray-900 transition-colors duration-300">
